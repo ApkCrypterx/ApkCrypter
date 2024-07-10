@@ -1,5 +1,5 @@
 # ApkCrypter
-ApkCrypter
+ApkCrypter.
 Bypass Google Protect.
 
 ✅https://t.me/spoof0x
